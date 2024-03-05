@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\abdullah\\source\\repos\\HelloWorld\\",
+  "WorkspaceRootPath": "C:\\Users\\abdullah\\Documents\\C\u002B\u002B practice\\C-Projects\\HelloWorld\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3BADFE18-3A80-4761-BDEE-7CD2F25AB7C3}|HelloWorld\\HelloWorld.vcxproj|C:\\Users\\abdullah\\source\\repos\\HelloWorld\\HelloWorld\\HelloWorld.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{3BADFE18-3A80-4761-BDEE-7CD2F25AB7C3}|HelloWorld\\HelloWorld.vcxproj|C:\\Users\\abdullah\\Documents\\C\u002B\u002B practice\\C-Projects\\HelloWorld\\HelloWorld\\HelloWorld.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{3BADFE18-3A80-4761-BDEE-7CD2F25AB7C3}|HelloWorld\\HelloWorld.vcxproj|solutionrelative:HelloWorld\\HelloWorld.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "HelloWorld.cpp",
-              "DocumentMoniker": "C:\\Users\\abdullah\\source\\repos\\HelloWorld\\HelloWorld\\HelloWorld.cpp",
+              "DocumentMoniker": "C:\\Users\\abdullah\\Documents\\C\u002B\u002B practice\\C-Projects\\HelloWorld\\HelloWorld\\HelloWorld.cpp",
               "RelativeDocumentMoniker": "HelloWorld\\HelloWorld.cpp",
-              "ToolTip": "C:\\Users\\abdullah\\source\\repos\\HelloWorld\\HelloWorld\\HelloWorld.cpp",
+              "ToolTip": "C:\\Users\\abdullah\\Documents\\C\u002B\u002B practice\\C-Projects\\HelloWorld\\HelloWorld\\HelloWorld.cpp",
               "RelativeToolTip": "HelloWorld\\HelloWorld.cpp",
-              "ViewState": "AQIAAEsAAAAAAAAAAAAAAFsAAAARAAAA",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAxwFsAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-03-05T16:42:59.503Z",
               "EditorCaption": ""
